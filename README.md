@@ -53,7 +53,7 @@ the structure of the song is:
 - bridge
 - outro
 
-I think, especially towards the end of the song, the dark blue parts is the refrain. 
+I think, especially towards the end of the song, the dark blue parts are the refrains. 
 This means that the refrain is very similar with the rest of the song. The yellow 
 stripes in between are the instrumental parts between the refrains. I think this,
 because the intro is also instrumental with the same melody and at the beginning
