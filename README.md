@@ -31,6 +31,32 @@ As we already saw in the chromagram, there is a point of silence and after it a
 woman talking. We see these changes in the cepstrogram as well. For example in 
 mfcc_02, there is a blue spot on 3/4 of the way. It occurs after the yellow lines.
 The blue spot is the silence. After the blue spot, you can see what happens to the
-cepstrogram when the woman is talking. There are no instruments you can hear. 
+cepstrogram when the woman is talking. There are no instruments you can hear when 
+the woman is talking. 
 
 ![](cepstrogramMika.png)
+
+## Self-similarity matrices
+
+I made a self-similarity matrix from Relax, Take It Easy. The bright yellow means 
+it is very different from the rest of the song. This is because there is a silence.
+So again, the silence part and talking part after it can be seen. Other than that,
+the structure of the song is:
+
+- verse 1
+- refrain
+- bridge
+- verse 2
+- refrain (2 times)
+- instrumental part
+- refrain (2 times)
+- bridge
+- outro
+
+I think, especially towards the end of the song, the dark blue parts is the refrain. 
+This means that the refrain is very similar with the rest of the song. The yellow 
+stripes in between are the instrumental parts between the refrains. I think this,
+because the intro is also instrumental with the same melody and at the beginning
+of my self-similarity matrix you can see a bit more yellow. 
+
+![](ssmMika.png)
