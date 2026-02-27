@@ -23,3 +23,14 @@ pitches, while the music is very structured with frequent pitches such as F#, E
 and C#. 
 
 ![](chromagramMika.png)
+
+## Cepstrogram
+
+Here is my cepstrogram from Relax, Take It Easy. It looks for differences in timbre. 
+As we already saw in the chromagram, there is a point of silence and after it a 
+woman talking. We see these changes in the cepstrogram as well. For example in 
+mfcc_02, there is a blue spot on 3/4 of the way. It occurs after the yellow lines.
+The blue spot is the silence. After the blue spot, you can see what happens to the
+cepstrogram when the woman is talking. There are no instruments you can hear. 
+
+![](cepstrogramMika.png)
