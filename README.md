@@ -1,8 +1,8 @@
 # Homework week 9 ~ Computational Musicology
-### **Mette Terpstra**
+*Mette Terpstra*
 
 ## Description of my project
-I will analyze seasonal playlists I made over the years.My seasonal playlists are
+I will analyze seasonal playlists I made over the years. My seasonal playlists are
 summer and autumn with respectively 139 and 74 songs. I hypothesize that music I 
 listen to in summer is happier, more danceable and has a faster tempo. Music in 
 my autumn playlist will be slower and sadder. Furthermore, I will analyze what songs
