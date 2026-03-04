@@ -16,8 +16,8 @@ The summer and autumn playlist differ the most with respect to energy, popularit
 acousticness, valence and tempo. Below is a comparison of Energy in both of the 
 playlists visualized with boxplots. 
 
-![](boxplotSummer.png)
-![](boxplotAutumn.png)
+![](EnergySummer.png)
+![](EnergyAutumn.png)
 
 ## Chromagram
 Below is a chromagram for a song in my autumn playlist. It has mostly a C#, F and
