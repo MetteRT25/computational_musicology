@@ -14,7 +14,8 @@ Spotify recommends adding to these playlists.
 ## Visualization of the playlists
 The summer and autumn playlist differ the most with respect to energy, popularity, 
 acousticness, valence and tempo. Below is a comparison of Energy in both of the 
-playlists visualized with boxplots. 
+playlists visualized with boxplots. It is clear from these boxplots that my music
+taste in summer has more energy than my music taste in autumn. 
 
 ![](EnergySummer.png)
 ![](AutumnEnergy.png)
@@ -79,4 +80,4 @@ of my self-similarity matrix you can see a bit more yellow.
 
 ## Chordogram
 
-![](chordogramRelax.png)
+![](chordogramUmbrella.png)
