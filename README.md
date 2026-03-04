@@ -80,4 +80,4 @@ of my self-similarity matrix you can see a bit more yellow.
 
 ## Chordogram
 
-![](chordogramUmbrella.png)
+![](chordogramUmbrella2.png)
