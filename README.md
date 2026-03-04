@@ -17,7 +17,7 @@ acousticness, valence and tempo. Below is a comparison of Energy in both of the
 playlists visualized with boxplots. 
 
 ![](EnergySummer.png)
-![](EnergyAutumn.png)
+![](AutumnEnergy.png)
 
 ## Chromagram
 Below is a chromagram for a song in my autumn playlist. It has mostly a C#, F and
