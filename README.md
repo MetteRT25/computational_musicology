@@ -8,6 +8,17 @@ listen to in summer is happier, more danceable and has a faster tempo. Music in
 my autumn playlist will be slower and sadder. Furthermore, I will analyze what songs
 Spotify recommends adding to these playlists. 
 
+*What songs are included?*
+*In how many years did you create these playlists?*
+
+## Visualization of the playlists
+The summer and autumn playlist differ the most with respect to energy, popularity, 
+acousticness, valence and tempo. Below is a comparison of Energy in both of the 
+playlists visualized with boxplots. 
+
+![](boxplotSummer.png)
+![](boxplotAutumn.png)
+
 ## Chromagram
 Below is a chromagram for a song in my autumn playlist. It has mostly a C#, F and
 Ab. Other than these pitches, F# and Bb are also frequent. I therefore conclude 
@@ -23,6 +34,11 @@ pitches, while the music is very structured with frequent pitches such as F#, E
 and C#. 
 
 ![](chromagramMika.png)
+
+*Give more information how I calculated the chromagrams*
+*Give more details about how the chromagram corresponds to chords used*
+*Eb in Umbrella is only used in the end and C# and F# before the end: what do you hear?*
+*Why these songs?*
 
 ## Cepstrogram
 
@@ -60,3 +76,7 @@ because the intro is also instrumental with the same melody and at the beginning
 of my self-similarity matrix you can see a bit more yellow. 
 
 ![](ssmMika.png)
+
+## Chordogram
+
+![](chordogramRelax.png)
